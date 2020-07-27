@@ -1,20 +1,23 @@
 {
   "name": "cra-template-tw-sass",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "An alternative template for CRA with a preconfigured Tailwincss setup, also replacing standard Tailwind blue / gray tint with dark gray black.",
   "author": "Derek Shanks",
   "email": "dbshanks75@hotmail.com",
+  "license": "MIT",
   "keywords": [
     "react",
     "tailwind",
     "tailwindcss",
     "create-react-app",
-    "sass"
+    "sass",
+    "css",
+    "styles"
   ],
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbshanks/cra-tw-sass"
+    "url": "git+https://github.com/dbshanks/cra-template-tw-sass"
   },
   "private": false,
   "dependencies": {
